@@ -1,7 +1,4 @@
 package com.codegame.test.Optimizations.CodeSize;
-
-import com.sun.org.apache.bcel.internal.generic.GOTO;
-
 import java.util.*;
 
 class Player {
